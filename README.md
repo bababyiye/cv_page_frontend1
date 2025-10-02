@@ -10,4 +10,4 @@
 ```
 ![image](/ava2.jpg)
 
-[CV page repository](https://github.com/bababyiye/cv_page_frontend1.git)
+[CV page repository](https://bababyiye.github.io/cv_page_frontend1/)
